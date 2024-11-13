@@ -1,5 +1,5 @@
 # ArchLinux Docker Image
-FROM ubuntu:latest
+FROM ubuntu:22.04
 
 # Non-interactive installation mode
 ENV DEBIAN_FRONTEND=noninteractive
